@@ -1,2 +1,2 @@
-# class-5-google-colab
-practice for loop
+# daily practice-google-colab
+practice Python Different Questions...
